@@ -9,7 +9,7 @@
 ### Мои языки:
 <p align="left">
 <p>
-  <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/CSharpLogo.png" alt="csharp" height="50"/>ㅤ
-  <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/UnityLogo.png" alt="java" height="50"/>ㅤ
-  <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/JavaLogo.png" alt="java" height="50"/>
+  <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/CSharpLogo.png" title="C#" alt="csharp" height="50"/>ㅤ
+  <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/UnityLogo.png" title="Unity" alt="unity" height="50"/>ㅤ
+  <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/JavaLogo.png" title="Java" alt="java" height="50"/>
 </p>
