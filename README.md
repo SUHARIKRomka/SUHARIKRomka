@@ -5,9 +5,13 @@
 - 🌱 В настоящее время я изучаю API Bukkit
 - 📫 Связаться со мной: sukhoveev.roma@gmail.com
 
-### Мои языки:
+### Языки:
 <p align="left">
   <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/CSharpLogo.png" title="C#" alt="csharp" height="50"/>ㅤ
-  <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/UnityLogo.png" title="Unity" alt="unity" height="50"/>ㅤ
   <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/JavaLogo.png" title="Java" alt="java" height="50"/>
+</p>
+
+### Опыт работы в:
+<p align="left">
+  <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/UnityLogo.png" title="Unity" alt="unity" height="50"/>
 </p>
