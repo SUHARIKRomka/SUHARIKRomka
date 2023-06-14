@@ -8,4 +8,4 @@
 
 ### Мои языки:
 <p align="left">
-<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="java" height="40"/>
+<img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/java_logo.png" alt="java" height="40"/>
