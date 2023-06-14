@@ -9,4 +9,4 @@
 ### Мои языки:
 <p align="left">
 <img src="https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png" alt="java" width="40" height="40"/>
-<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="java" width="40" height="40"/>
+<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="java" height="40"/>
