@@ -8,5 +8,5 @@
 
 ### Мои языки:
 <p align="left">
-<img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/JavaLogo.png" alt="java" height="50"/>
 <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/CSharpLogo.png" alt="java" height="50"/>
+<img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/JavaLogo.png" alt="java" height="50"/>
