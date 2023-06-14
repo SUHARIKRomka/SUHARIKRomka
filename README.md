@@ -3,5 +3,5 @@
 <p><br></p>
 
 - 🔭 I'm currently working on Minecraft plugins
-- - 🌱 I'm currently learning the Bukkit API
-- - 📫 How to contact me: sukhoveev.roma@gmail.com
+- 🌱 I'm currently learning the Bukkit API
+- 📫 How to contact me: sukhoveev.roma@gmail.com
