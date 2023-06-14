@@ -8,4 +8,4 @@
 
 ### Мои языки:
 <p align="left">
-<img src="https://w7.pngwing.com/pngs/510/15/png-transparent-java-programming-computer-programming-programming-language-android-coffee-jar-text-logo-computer-program.png" alt="java" width="40" height="40"/>
+<img src="https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png" alt="java" width="40" height="40"/>
