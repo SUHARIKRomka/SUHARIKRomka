@@ -11,7 +11,7 @@
   <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/JavaLogo.png" title="Java" alt="java" height="50"/>
 </p>
 <a href="https://github.com/SUHARIKRomka"> 
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUHARIK Romka&theme=apprentice"/> 
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUHARIKRomka&theme=apprentice"/> 
 </a>
 
 ### Опыт работы в:
