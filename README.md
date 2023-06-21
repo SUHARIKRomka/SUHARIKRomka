@@ -10,9 +10,6 @@
   <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/CSharpLogo.png" title="C#" alt="csharp" height="50"/>ㅤ
   <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/JavaLogo.png" title="Java" alt="java" height="50"/>
 </p>
-<a href="https://github.com/SUHARIKRomka"> 
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUHARIKRomka&theme=apprentice"/> 
-</a>
 
 ### Опыт работы в:
 <p align="left">
