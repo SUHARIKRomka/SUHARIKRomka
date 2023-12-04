@@ -7,11 +7,11 @@
 
 ### Языки:
 <p align="left">
-  <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/CSharpLogo.png" title="C#" alt="csharp" height="50"/>ㅤ
-  <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/JavaLogo.png" title="Java" alt="java" height="50"/>
+  <img src="https://github.com/Jone501/Jone501/blob/main/resources/CSharpLogo.png" title="C#" alt="csharp" height="50"/>ㅤ
+  <img src="https://github.com/Jone501/Jone501/blob/main/resources/JavaLogo.png" title="Java" alt="java" height="50"/>
 </p>
 
 ### Опыт работы в:
 <p align="left">
-  <img src="https://github.com/SUHARIKRomka/SUHARIKRomka/blob/main/resources/UnityLogo.png" title="Unity" alt="unity" height="50"/>
+  <img src="https://github.com/Jone501/Jone501/blob/main/resources/UnityLogo.png" title="Unity" alt="unity" height="50"/>
 </p>
